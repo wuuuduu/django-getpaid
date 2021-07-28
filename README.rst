@@ -170,7 +170,7 @@ Redesigned and rewritten by `Dominik Kozaczko <https://github.com/dekoza>`_.
 
 Proudly sponsored by `SUNSCRAPERS <http://sunscrapers.com/>`_
 
-Redesigned to be compatible with rest-framework by _`Panowie Programiści <https://p-programisci.pl>`__
+Redesigned to be compatible with rest-framework by `Panowie Programiści <https://p-programisci.pl>`__
 
 Disclaimer
 ==========

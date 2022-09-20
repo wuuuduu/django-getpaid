@@ -115,7 +115,7 @@ and define some required methods:
                 editable=False
             )
         def get_absolute_url(self):
-            return f"{settings.FRONTEND_URL}/order/{self.pk}"
+            return urljoin(settings.FRONTEND_URL, f"order/{self.pk}")
 
         def get_total_amount(self):
             return self.amount
